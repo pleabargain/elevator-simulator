@@ -1,3 +1,10 @@
+# AI slop
+I wrote this as an interactive experiment with Gemini CLI. I made sure it asked me a bunch of questions to clarify the PRD. By having the agent refer back to the PRD I was able to get working code in the first iteration. The second interation broke much of the functionality which made me create a reference in the gemini.md file to refer to the PRD before making any major changes.
+
+# URL
+https://github.com/pleabargain/elevator-simulator
+
+
 # Elevator Simulator
 
 This is a command-line based elevator simulation game written in Python. The player manages an elevator in a building to transport passengers efficiently.
